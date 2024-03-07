@@ -1,8 +1,2 @@
 Hello World!
-
-change 1
-
-
-change 2
-
-change 3
+ removed change 1-3
